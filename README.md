@@ -12,9 +12,9 @@ I also used web-crawling and tag clouds for travel reviews on TripAdvisor, and P
 
 Please refer to File 1 and File 2 for more detailed methodologies our team used in ths project.
 
-||Feedback from Classmates and Professor
+||Feedbacks from Classmates and Professor
 
-Please refer to File 3 for the feedback our team received from the class
+Please refer to File 3 for the feedbacks our team received from the class
 
 ||Demo
 
