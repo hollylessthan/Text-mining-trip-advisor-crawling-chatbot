@@ -2,7 +2,7 @@
 
 ||Introduction
 
-I built this projects with other 2 team menbers in a Text Mining at National Tsing Hua University.
+I built this project with 2 other team menbers in a Text Mining at National Tsing Hua University.
 Our motivation is to reduce the number of platforms that tourists use for travel information such as Facebook, Instagram, Google Maps, and blogs
 I integrated the resources across different websites into one Messenger chatbot service. 
 I also used web-crawling and tag clouds for travel reviews on TripAdvisor, and Python and Natural Language Processing for chatbot user input through Chatfuel, Dialogflow, and Janis, which interact with users to quickly identify their needs and provide helpful travel information. 
